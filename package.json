@@ -1,15 +1,15 @@
 {
-  "name": "notion-backup",
-  "version": "1.4.0",
+  "name": "notion-backup-type",
+  "version": "1.4.3",
   "description": "Notion exporter meant to be used as part of a GitHub workflow",
-  "main": "./notion-backup.js",
+  "main": "./notion-backup-type.js",
   "bin": {
-    "notion-backup": "./notion-backup.js",
+    "notion-backup-type": "./notion-backup-type.js",
     "notion-backup-item": "./notion-backup-item.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darobin/notion-backup.git"
+    "url": "https://github.com/Buliet/notion-backup-type.git"
   },
   "eslintConfig": {
     "extends": "robin"
@@ -17,9 +17,9 @@
   "author": "Robin Berjon <robin@berjon.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/darobin/notion-backup/issues"
+    "url": "https://github.com/Buliet/notion-backup-type/issues"
   },
-  "homepage": "https://github.com/darobin/notion-backup",
+  "homepage": "https://github.com/Buliet/notion-backup-type",
   "devDependencies": {
     "eslint-config-robin": "^6.1.3"
   },

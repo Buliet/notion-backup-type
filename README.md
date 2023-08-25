@@ -1,6 +1,15 @@
 
 # notion-backup
 
+## This is a COPY
+
+Copy  from: [Robin Berjon](https://www.npmjs.com/package/notion-backup) 
+Learn from: [methyldragon](https://www.npmjs.com/package/notion-backups)   
+
+Add: Choosing export type
+
+## Description
+
 This is a very simple tool to export a workspace from [Notion](https://www.notion.so/), designed
 to work as part of a GitHub workflow.
 
